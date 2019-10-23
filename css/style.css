@@ -1,0 +1,47 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  background-color: lightblue;
+  text-align: center;
+}
+
+
+h1 {
+  color: darkblue;
+}
+
+p {
+  color: violet;
+}
+
+h3 {
+  color: orange;
+}
+
+#one{
+background-color: yellow;
+}
+
+#two{
+  background-color: orange;
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+#three{
+  background-color: pink;
+  float: right;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+#four{
+  background-color: green;
+  clear: both;
+  margin-top: 50px;
+}
+
+.red-text {
+  color: darkred;
+}
